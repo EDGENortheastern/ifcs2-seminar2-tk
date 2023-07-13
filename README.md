@@ -19,6 +19,8 @@ To address this need, I propose the development of a tkinter-based application t
 
 ![My designs](my_design.png)
 
-## My classes
+## My Prototypes
 
+[Here you can see my Figma](https://www.figma.com/file/sH1WBYnw3AmW8dPWVR86ID/ifcs2-sum1-sample?type=design&node-id=0-1&mode=design&t=VhXcxQBfjVhnYihc-0)
 
+[Clickable proto](https://www.figma.com/proto/sH1WBYnw3AmW8dPWVR86ID/Untitled?type=design&node-id=1-2&t=VhXcxQBfjVhnYihc-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
