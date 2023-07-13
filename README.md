@@ -18,3 +18,7 @@ To address this need, I propose the development of a tkinter-based application t
 ## My Design
 
 ![My designs](my_design.png)
+
+## My classes
+
+
