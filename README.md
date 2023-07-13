@@ -15,4 +15,6 @@ In today's fast-paced workplace, online meetings have become an integral part of
 
 To address this need, I propose the development of a tkinter-based application that will allow to register participants during online meetings as well as learn ho simple Python apps work. It will be used via replit during training meetings and all the user is asked to do is write their names.
 
+## My Design
 
+![My designs](my_design.png)
